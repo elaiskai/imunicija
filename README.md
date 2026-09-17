@@ -1,6 +1,6 @@
 # Imunicija — welcome flow
 
-Trys lietuviški welcome serijos naujienlaiškiai. Nemokamo siuntimo kodas: **LABASS**.
+Trys lietuviški welcome serijos naujienlaiškiai. 10 € nuolaidos kodas: **LABASS**.
 
 | Laiškas | Siuntimo laikas nuo registracijos | Failai | Desktop JPG |
 |---|---|---|---|
@@ -12,8 +12,8 @@ Kiekviename aplanke yra `newsletter.html`, `newsletter.txt`, `BRAND_NOTES.md`, d
 
 ## Peržiūra
 
-Atsisiųskite repozitoriją ir atverkite pasirinkto laiško `newsletter.html` naršyklėje. Išlaikykite aplankų struktūrą, kad veiktų santykinės paveikslėlių nuorodos.
+Atsisiųskite repozitoriją ir atverkite pasirinkto laiško `newsletter.html` naršyklėje. HTML naudoja viešus HTTPS paveikslėlių URL iš šios repozitorijos; visi originalūs assetai taip pat yra atitinkamuose aplankuose.
 
 ## Naudojimas Omnisend
 
-Tai laiškų maketai, o ne paskyroje aktyvuota automatizacija. Prieš siunčiant assetus reikia įkelti į viešą HTTPS talpyklą arba ESP, atnaujinti paveikslėlių URL, patikrinti atsisakymo žymą ir parduotuvėje aktyvuoti LABASS nemokamo siuntimo kodą.
+Tai laiškų maketai, o ne paskyroje aktyvuota automatizacija. Paveikslėliai pasiekiami viešais HTTPS URL. Prieš siunčiant reikia patikrinti Omnisend atsisakymo žymą ir parduotuvėje aktyvuoti LABASS 10 € nuolaidos kodą.
