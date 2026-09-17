@@ -1,3 +1,6 @@
+## Aktualus pasiūlymas — 2026-09-17
+Visuose šios serijos laiškuose taikoma 10 € nuolaida su kodu LABASS. Ši vartotojo patvirtinta suma pakeičia ankstesnį nemokamo pristatymo pasiūlymą; žemiau esantys įrašai apie jį yra istoriniai. Minimali užsakymo suma ir galiojimo terminas nenurodyti. Keičiamas laiškų turinys; parduotuvės nuolaidos nustatymai šiuo veiksmu nekeičiami.
+
 # IMUNICIJA — Welcome 02: padėkime išsirinkti
 
 Sukurta 2026-09-10. Skirta siųsti praėjus 1 dienai nuo prenumeratos, tik dar nenusipirkusiems ir prenumeratos neatsisakiusiems kontaktams. Jei seka prasideda 20 min. laukimu prieš pirmą laišką, iki šio laiško papildomai laukti 23 val. 40 min. Trečias laiškas planuojamas po 3 dienų nuo prenumeratos; šiame darbe nekuriamas. Gyva automatizacija nekurta.
@@ -63,3 +66,7 @@ Vartotojo prašymu antras laiškas išplėstas iš 3 į 6 poreikių blokus: darb
 Papildomi trys packshotai nukopijuoti iš pirmo laiško galutinių, jau retušuotų failų be vandens ženklų; naujų AI generacijų nereikėjo. Papildomos siuntimo priklausomybės: assets/products/acer-iconia.jpg, assets/products/huawei-fit-se.jpg, assets/products/konka-tv.jpg. Vaizdų šaltiniai ir retušo kilmė: ../imunicija-welcome-email/BRAND_NOTES.md. Kategorijų URL perimti iš tame pačiame darbe patikrinto pirmojo laiško: https://imunicija.lt/produkto-kategorija/plansetes/ , https://imunicija.lt/produkto-kategorija/laikrodziai/ , https://imunicija.lt/produkto-kategorija/vaizdo-technika/televizoriai/ . Patarimai bendri pasirinkimo kriterijai; konkrečios įrenginio funkcijos nežadamos.
 
 Šešių poreikių QA: desktop 600 × 4477 px, mobile 390 × 4351 px. Abiejose versijose visos nuotraukos įkeliamos, šeši blokai, nėra horizontalaus perpildymo. Hero tekstas ir pridėtos kortelės peržiūrėti vizualiai. Po pirminės peržiūros įžanga suderinta su platesniu poreikių pasirinkimu. HTML/TXT nuorodos sutampa; vietiniai assetai egzistuoja. JPG/PNG ir ZIP atnaujinti.
+
+2026-09-17 QA: visų trijų laiškų 10 € pasiūlymai ir LABASS kodas patikrinti desktop ir mobile vaizduose. HTML/TXT atitinka, paveikslėliai užkrauti, persipildymo nėra. JPG/PNG ir ZIP atnaujinti.
+
+2026-09-17 GitHub versija: newsletter.html paveikslėlių src, hero background ir Outlook VML src naudoja viešus raw.githubusercontent.com/elaiskai/imunicija/main HTTPS URL. Aktuali dovana — 10 € nuolaida, LABASS.
