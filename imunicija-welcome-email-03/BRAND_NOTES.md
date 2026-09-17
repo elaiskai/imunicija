@@ -1,3 +1,6 @@
+## Aktualus pasiūlymas — 2026-09-17
+Visuose šios serijos laiškuose taikoma 10 € nuolaida su kodu LABASS. Ši vartotojo patvirtinta suma pakeičia ankstesnį nemokamo pristatymo pasiūlymą; žemiau esantys įrašai apie jį yra istoriniai. Minimali užsakymo suma ir galiojimo terminas nenurodyti. Keičiamas laiškų turinys; parduotuvės nuolaidos nustatymai šiuo veiksmu nekeičiami.
+
 # IMUNICIJA — Welcome 03: priminimas ir pagalba
 
 Sukurta 2026-09-10. Tema: Dar renkatės? Padėsime.
@@ -77,3 +80,7 @@ Paliktas pilno pločio hero ir šešių kategorijų blokas su produktų nuotrauk
 
 ### Kategorijų bloko ir informacinės sekcijos atnaujinimas
 Kategorijų blokas perdarytas į dviejų stulpelių, trijų eilių baltas korteles šviesiame fone. Kiekviena turi numerį, kategorijos pavadinimą, esamą produkto nuotrauką be watermarko ir ryškų stačiakampį CTA. Prieš footerį pridėtas informacinis pasirinkimo gidas: paskirtis, suderinamumas ir dydis, su kontaktiniu CTA. Tai bendri pasirinkimo patarimai, ne nauji pardavėjo pažadai. Hero ir LABASS pasiūlymas išsaugoti. Po vizualinės peržiūros supaprastinta kategorijų antraštė. Desktop (800 px viewport, apkirpta iki 600 × 4610 px) ir mobile (390 × 4571 px) patikrinti: 6 kortelės, paveikslėliai užkrauti, horizontalaus persipildymo nėra. HTML ir TXT nuorodos sutampa. Vietinius assetus prieš siuntimą reikia talpinti ESP / viešame HTTPS serveryje; ši versija yra lokali peržiūra.
+
+2026-09-17 QA: visų trijų laiškų 10 € pasiūlymai ir LABASS kodas patikrinti desktop ir mobile vaizduose. HTML/TXT atitinka, paveikslėliai užkrauti, persipildymo nėra. JPG/PNG ir ZIP atnaujinti.
+
+2026-09-17 GitHub versija: newsletter.html paveikslėlių src, hero background ir Outlook VML src naudoja viešus raw.githubusercontent.com/elaiskai/imunicija/main HTTPS URL. Aktuali dovana — 10 € nuolaida, LABASS.
